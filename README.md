@@ -58,3 +58,30 @@ This project helped me strengthen my understanding of:
 ~ Building interactive and responsive web applications
 ~ Implementing CRUD operations for cart management
 
+# How to use/setup
+
+1. Clone the repository
+git clone https://github.com/srivanipaspunoor1234/CosmoCart-Ecommerce-Website.git
+cd CosmoCart-Ecommerce-Website
+
+2. Open the project in your code editor
+~ Open the folder in VS Code or any editor of your choice.
+
+3. Connect to a JSON server (optional)
+~ If you want to use a local JSON server for products and cart data:
+  1.Install json-server globally (if not installed):
+  npm install -g json-server
+  2.Create a db.json file in the project root with sample data:
+  3.Start the JSON server:
+  json-server --watch db.json --port 5000
+  4.Update API URLs in your JS files (if needed) to
+   http://localhost:5000/users.
+
+4. Open the project in a browser
+~ You can simply open index.html in a browser, or use a live server extension in VS Code.   
+
+5. Test the application
+~ Register a new user, log in, browse products, add items to the cart, and manage orders.
+   
+
+
