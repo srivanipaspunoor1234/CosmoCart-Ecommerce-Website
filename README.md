@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Retro-Coin-Phone
 From Coin Box to Codebase: When ₹1 Meant 1 Minute
 
@@ -57,6 +58,9 @@ JavaScript – logic for coins, call timing, keypad functionality
 This project is inspired by nostalgia — recreating a simple yet memorable experience from the past. It also demonstrates front-end logic handling, UI state management, and real-world system simulation.
 =======
 # CosmoCart-Ecommerce-Website
+=======
+# Cosmocart-Ecommerce-Website
+>>>>>>> fba160f064b50c9e5eab2ae2bb0d07577cba3099
 
 A modern and responsive E-Commerce Web Application built using HTML, CSS, and JavaScript.
 This app allows users to register, log in, browse products, view details, add items to a cart, and manage their orders — all wrapped in a clean and interactive UI.
@@ -78,7 +82,11 @@ This app allows users to register, log in, browse products, view details, add it
 ~ CSS – Styling, layout, and responsive design
 ~ JavaScript – DOM manipulation, Fetch API, localStorage, event handling
 
+<<<<<<< HEAD
 3 How It Works
+=======
+# How It Works
+>>>>>>> fba160f064b50c9e5eab2ae2bb0d07577cba3099
 
 ~ User registers an account or logs in
 ~ Products are displayed on the home page in a grid layout
@@ -115,4 +123,10 @@ This project helped me strengthen my understanding of:
 ~ Managing user sessions with localStorage
 ~ Building interactive and responsive web applications
 ~ Implementing CRUD operations for cart management
+<<<<<<< HEAD
 >>>>>>> 10f08c975c070b582e9fcda3872c1e0d586f7032
+=======
+
+
+
+>>>>>>> fba160f064b50c9e5eab2ae2bb0d07577cba3099
