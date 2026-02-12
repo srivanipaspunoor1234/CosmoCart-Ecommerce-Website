@@ -20,7 +20,7 @@ This app allows users to register, log in, browse products, view details, add it
 ~ CSS – Styling, layout, and responsive design
 ~ JavaScript – DOM manipulation, Fetch API, localStorage, event handling
 
-3 How It Works
+# How It Works
 
 ~ User registers an account or logs in
 ~ Products are displayed on the home page in a grid layout
